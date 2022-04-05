@@ -1,0 +1,53 @@
+.logo-palette-text {
+    font-family: "palette mosaic";
+    font-size: 32px;
+    color: black;
+}
+
+.navbar-brand {
+    padding-top: 3%;
+}
+
+.slide-main {
+    border-radius: 9px;
+    object-fit: cover;
+    cursor: pointer;
+
+}
+
+.m-t-5 {
+    margin-top: 5px;
+}
+
+.head-backgr {
+    background-color: rgba(50, 17, 17, 0.838);
+    color: rgb(7, 8, 9);
+    border: 1px solid #090808;
+    box-shadow: 1px 1px 5px 0px;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 33px;
+    font-style: italic;
+}
+
+.game-card {
+    background-color: #f1f1f1;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #d7d7d7;
+    box-shadow: 1px 1px 5px 0px;
+    cursor: pointer;
+
+}
+
+.game-card-text {
+    text-align: center;
+}
+
+
+.gif-image {
+    width: 200px;
+    height: 250px;
+
+}
